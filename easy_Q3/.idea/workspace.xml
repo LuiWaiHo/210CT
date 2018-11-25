@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74f4ac90-e5be-4e2c-a24b-e1c636feb621" name="Default Changelist" comment="" />
+    <list default="true" id="74f4ac90-e5be-4e2c-a24b-e1c636feb621" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Q13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easy_Q10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easy_Q11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easy_Q7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easy_Q9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q10/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q10/src/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q11/src/Merges.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/src/Merges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q11/src/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/src/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q11/src/bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/src/bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q7/src/ListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q7/src/ListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../report.docx" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +54,12 @@
     <session id="1100958521">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.38" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -56,12 +76,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="260" />
+          <entry key="java" value="293" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="260" />
+          <entry key="JAVA" value="293" />
         </counts>
       </usages-collector>
     </session>
@@ -72,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/src/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="13" column="20" lean-forward="true" selection-end-line="18" />
+              <caret line="13" column="20" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -80,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="11" column="18" lean-forward="true" selection-end-line="40" />
+            <state relative-caret-position="176">
+              <caret line="11" column="18" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -89,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestShape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="53" column="30" lean-forward="true" selection-end-line="65" />
+            <state relative-caret-position="848">
+              <caret line="53" column="30" selection-end-line="65" />
             </state>
           </provider>
         </entry>
@@ -98,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Point.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
+            <state relative-caret-position="144">
               <caret line="9" column="47" selection-end-line="27" />
             </state>
           </provider>
@@ -107,8 +127,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="9" column="26" lean-forward="true" selection-end-line="38" />
+            <state relative-caret-position="352">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -117,33 +137,37 @@
         <entry file="file://$PROJECT_DIR$/src/Point.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="512">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Circle.java" />
         <option value="$PROJECT_DIR$/src/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/TestShape.java" />
+        <option value="$PROJECT_DIR$/src/Circle.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="38" />
-    <option name="width" value="1769" />
-    <option name="height" value="992" />
+    <option name="y" value="36" />
+    <option name="width" value="1770" />
+    <option name="height" value="994" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,12 +186,11 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539867711338" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../easy_Q4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../easy_Q8" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -214,10 +237,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="31" width="1415" height="793" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="29" width="1416" height="795" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21812822" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.224595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -249,45 +271,45 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Point.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="13" column="20" lean-forward="true" selection-end-line="18" />
+          <caret line="13" column="20" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="11" column="18" lean-forward="true" selection-end-line="40" />
+        <state relative-caret-position="176">
+          <caret line="11" column="18" selection-end-line="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestShape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="53" column="30" lean-forward="true" selection-end-line="65" />
+        <state relative-caret-position="848">
+          <caret line="53" column="30" selection-end-line="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
+        <state relative-caret-position="144">
           <caret line="9" column="47" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="9" column="26" lean-forward="true" selection-end-line="38" />
+        <state relative-caret-position="352">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>

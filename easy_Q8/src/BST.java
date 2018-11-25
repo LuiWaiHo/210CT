@@ -38,12 +38,14 @@ public class BST {
     {
         BinaryNode cur = bst;
 
+        // if the left node or right of current node is null it will return;
         if (root == null)
         {
             return null;
         }
 
-        // if the left node or right of current node is null it will return;
+        // if the data is small than current node, go to the left child tree
+
         if (data<cur.data )
         {
             if (cur.left != null)
@@ -57,6 +59,7 @@ public class BST {
                 return null;
             }
         }
+// if the data is small than current node, go to the right child tree
 
         else if (data>cur.data)
         {
@@ -69,6 +72,8 @@ public class BST {
                 return null;
             }
         }
+        //The search succeeds, returning the address of the found node of the node
+
         else
         {
 
@@ -83,21 +88,25 @@ public class BST {
 
     public BinaryNode Insert(int data, BinaryNode bst)
     {
+// if the tree is null, Generate and return a binary search tree for a node
 
-        // The left child node is less than parent node, the right node is greater than parent node
         if (bst == null)
         {
             root = new BinaryNode(data);
             return root;
         }
+        //Start looking for the location where you want to insert the element
+
         if (data>bst.data)
-        {
+        {//Recursively inserting the right subtree
             bst.right =  Insert(data, bst.right);
         }
         if (data<bst.data)
         {
+            //Recursively inserting the left subtree
             bst.left =  Insert(data, bst.left);
         }
+        //else x already exists, do nothing
         return bst;
     }
 
@@ -154,7 +163,8 @@ public class BST {
         Find_max(root);
     }
     public void Find_max (BinaryNode bst)
-    {
+    {   //The maximum data usually at the right node, so keep looking to the right node.
+
         if (bst.right != null)
         {
 

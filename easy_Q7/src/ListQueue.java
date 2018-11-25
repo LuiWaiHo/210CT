@@ -32,6 +32,7 @@ public class ListQueue extends LinkedList{
         length_of_array = 0;
     }
 
+    //return ture if the head is null
     public boolean empty()
     {
         if (head == null)
@@ -43,6 +44,9 @@ public class ListQueue extends LinkedList{
             return false;
         }
     }
+
+    //return, if existing lengrh of arrat is greater than max length
+    // else add the new element at the head
     public void enqueue (Object o)throws ExceptionQueueFull
     {
 
@@ -54,6 +58,8 @@ public class ListQueue extends LinkedList{
         length_of_array += 1;
         addToHead(o);
     }
+
+
     public Object dequeue()
     {
         length_of_array -= 1;

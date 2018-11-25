@@ -17,6 +17,7 @@ public class bubble {
             for(int j = i ; j < arr.length; j++ ){
 
                 comparison_time+= 1;
+                // repeatedly swapping the adjacent elements if they are in wrong order.
                 if (arr[i] > arr[j]){
                     int tmp = arr[i];
                     arr[i] = arr[j];

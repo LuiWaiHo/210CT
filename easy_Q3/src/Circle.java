@@ -22,9 +22,10 @@ public class Circle extends Shape{
      public String toString() { return this.__radius.toString() ; }
 
      public void setRadius(double rad ) { this.radius = rad ; }
-
+    // get the radius
      public double get__radius() { return  this.radius ; }
 
+     //set the x, y
      public void setCenter(double x, double y ) { __radius.setPoint(x,y) ; }
 
      public void  getCenter()

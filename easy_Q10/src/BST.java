@@ -38,16 +38,18 @@ public class BST {
 
         if (data<cur.data )
         {
+            // if the data is small than current node, go to the left child tree
+
             return position_Find(data, cur.left);
         }
         else if (data>cur.data)
         {
-
+            // if the data is small than current node, go to the right child tree
             return position_Find(data, cur.right);
         }
         else
         {
-
+            //The search succeeds, returning the address of the found node of the node
             return cur;
         }
     }
@@ -62,17 +64,22 @@ public class BST {
 
         if (bst == null)
         {
+            // if the tree is null, Generate and return a binary search tree for a node
             root = new BinaryNode(data);
             return root;
         }
+        //Start looking for the location where you want to insert the element
         if (data>bst.data)
         {
+            //Recursively inserting the right subtree
             bst.right =  Insert(data, bst.right);
         }
         if (data<bst.data)
         {
+            //Recursively inserting the left subtree
             bst.left =  Insert(data, bst.left);
         }
+        //else x already exists, do nothing
         return bst;
     }
 
@@ -101,6 +108,8 @@ public class BST {
     }
     public BinaryNode inorder (BinaryNode bst)
     {
+        //Start from the left of the tree, to the middle end,
+        // and finally to the right.
         if (bst == null)
         {
             //System.out.println("visited");
@@ -157,19 +166,26 @@ public class BST {
         BinaryNode tmp;
         if (data<bst.data)
         {
-            bst.left = delete(bst.left, data);
+            bst.left = delete(bst.left, data);//Left subtree recursively deleted
             return bst;
         }
         if (data>bst.data)
         {
 
-            bst.right = delete(bst.right,data);
+            bst.right = delete(bst.right,data);//right subtree recursively deleted
             return bst;
         }
         else {
+            //Successfully found the node to delete
+
+
+            //A deleted node has only one node or no node
             if (bst.left == null && bst.right == null) {
+
                 return null;
             }
+
+
             else if (bst.right == null && bst.left!=null)
             {
                 bst = bst.left;
@@ -182,10 +198,13 @@ public class BST {
                 return bst;
 
             }
+            //The nodes that are deleted have nodes on the left and right
             else if (bst.left != null && bst.right != null)
             {
+                //Find the smallest element in the right subtree to fill the deleted node
                 tmp = Find_min(bst.right);
                 bst.data = tmp.data;
+                //Delete the smallest element in the right subtree of the deleted node
                 bst.right = delete(bst.right, tmp.data);
 
             }
@@ -196,6 +215,7 @@ public class BST {
 
     public BinaryNode Find_min(BinaryNode bst)
     {
+        //The minimum data usually at the left node, so keep looking to the left node.
         while (bst.left!=null)
         {
             bst = bst.left;

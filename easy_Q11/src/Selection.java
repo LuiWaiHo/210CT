@@ -26,6 +26,7 @@ public class Selection {
         while(sort.size()!=0) {
             int min = sort.get(0);
             index = 0;
+            // find the minimum element in the array and add to sorted list
             for (int i = 0; i < sort.size(); i++) {
                 int cur = sort.get(i);
                 comparison_count += 1;

@@ -1,4 +1,3 @@
-import com.sun.scenario.effect.Merge;
 
 /**
  * @Author Lui
@@ -14,21 +13,28 @@ public class Merges {
 
     public  int[] Megre(int[] array)
     {
+        // return , stop iteration if the length of array only one
         if (array.length == 1)
         {
             return array;
         }
+        // find the midpoint of array
         int midpoint = array.length/2;
         int[] left = new int[midpoint];
         int [] right;
+        // If the result of dividing 2 is an integer,
+        // then the array can be assigned the same number.
         if (array.length %2 == 0)
         {
             right = new int [midpoint];
 
         }
+        //If the result of dividing 2 is a decimal, then the distribution cannot be evenly distributed.
+        // The right array has one more than the left array.
         else {
             right = new int [midpoint+1];
         }
+        //Split the array into left and right
         for (int i = 0; i < midpoint ; i++)
         {
             merge_count += 1;
@@ -42,8 +48,11 @@ public class Merges {
 
         }
         int[] result = new int [array.length];
+        //Recursive method,
+        // the elements in the array are separated ...
         left = Megre(left);
         right = Megre(right);
+        //Compare two arrays for merging and sorting
         result = Megre(left, right);
 
         return result;

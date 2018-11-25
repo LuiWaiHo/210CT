@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2426225f-b2eb-454a-ab99-729d4c97df73" name="Default Changelist" comment="" />
+    <list default="true" id="2426225f-b2eb-454a-ab99-729d4c97df73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Q13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easy_Q10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easy_Q11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easy_Q7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easy_Q9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q10/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q10/src/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q11/src/Merges.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/src/Merges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q11/src/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/src/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q11/src/bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/src/bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q3/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q3/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q7/src/ListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q7/src/ListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/easy_Q8/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/easy_Q8/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../report.docx" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,19 +69,20 @@
     <session id="118390977">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="289" />
+          <entry key="java" value="308" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="289" />
+          <entry key="JAVA" value="308" />
         </counts>
       </usages-collector>
     </session>
@@ -68,15 +92,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="88" column="9" lean-forward="true" selection-end-line="169" />
+            <state relative-caret-position="124">
+              <caret line="149" column="5" lean-forward="true" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
               <folding>
                 <element signature="e#279#280#0" expanded="true" />
                 <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#1488#1489#0" expanded="true" />
-                <element signature="e#1528#1529#0" expanded="true" />
-                <element signature="e#3169#3170#0" expanded="true" />
-                <element signature="e#3199#3200#0" expanded="true" />
+                <element signature="e#1506#1507#0" expanded="true" />
+                <element signature="e#1546#1547#0" expanded="true" />
+                <element signature="e#3287#3288#0" expanded="true" />
+                <element signature="e#3317#3318#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/src/BST_test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -100,6 +124,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -109,18 +136,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1438" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="width" value="1439" />
+    <option name="height" value="1039" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,11 +163,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542693064854" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../easy_Q9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,9 +211,38 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1150" height="830" extended-state="0" />
+    <frame x="-7" y="0" width="1151" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2591575" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26349497" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06437768" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32761088" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26349497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -202,7 +259,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3281027" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32761088" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -211,7 +268,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -221,21 +278,21 @@
     <entry file="file://$PROJECT_DIR$/src/BST_test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="88" column="9" lean-forward="true" selection-end-line="169" />
+        <state relative-caret-position="124">
+          <caret line="149" column="5" lean-forward="true" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
           <folding>
             <element signature="e#279#280#0" expanded="true" />
             <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#1488#1489#0" expanded="true" />
-            <element signature="e#1528#1529#0" expanded="true" />
-            <element signature="e#3169#3170#0" expanded="true" />
-            <element signature="e#3199#3200#0" expanded="true" />
+            <element signature="e#1506#1507#0" expanded="true" />
+            <element signature="e#1546#1547#0" expanded="true" />
+            <element signature="e#3287#3288#0" expanded="true" />
+            <element signature="e#3317#3318#0" expanded="true" />
           </folding>
         </state>
       </provider>
