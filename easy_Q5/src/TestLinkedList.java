@@ -39,6 +39,7 @@ public class TestLinkedList {
 			System.out.println("removed:" + s.removeFromTail());
 			System.out.println(s);
 			System.out.println();
+			System.out.println("removed:" + s.removeFromTail());
 		}
 	}
 } // class TestLinkedList

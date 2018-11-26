@@ -27,10 +27,14 @@ class LinkedList {
 		{
 			this.head = new_node;
 			this.tail = new_node;
+			/*
+			 *   if the linked list is null ,the head and tail address will be point to new_node address
+			 */
 		}
 		else
 		{
-			ListNode cur = this.head;
+			ListNode cur = this.head;//the new node point the next to the old head of the linked list as a new head node
+
 			ListNode tmp = cur;
 			ListNode node= new ListNode(new_node.getData(),tmp);
 
@@ -45,12 +49,17 @@ class LinkedList {
 			this.tail = new_node;
 		}
 		else
-		{
-			ListNode cur = this.head;
+		{/*
+		 *   if the linked list is null ,the head address will be point to new_node address
+		 */
+			ListNode cur = this.head;// declare the variable current, and point to the first node address
+
 			while (cur.getNext() != null)
 			{
 				cur = cur.getNext() ;
-			}
+			}/*
+			 * get out of the loop when the next node is null
+			 */
 			cur.setNext(new_node,cur);
 
 		this.tail = new_node;
@@ -60,17 +69,16 @@ class LinkedList {
 		if ( isEmpty() ) // throw exception if List is empty
 			throw new EmptyListException();
 
-		ListNode cur = this.head;
+		ListNode cur = this.head;//declare the cur and point to head, then point the head to the next of current node
+
+		// if head and tail node data is same that mean the list only has one node
 		if (this.head == this.tail)
 		{
 			this.head = this.tail = null;
 			return cur.getData();
 		}
-		if (this.head == null)
-		{
-			System.out.println("head is null");
-			return this.head;
-		}
+
+		
 
 		ListNode tmp = cur.getNext() ;
 		this.head = tmp;

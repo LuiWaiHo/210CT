@@ -2,27 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2426225f-b2eb-454a-ab99-729d4c97df73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Q13/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easy_Q10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easy_Q11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easy_Q7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../easy_Q9/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q13/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easy_Q5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../easy_Q6/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../easy_Q10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../easy_Q10/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q10/src/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../easy_Q11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../easy_Q11/src/Merges.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/src/Merges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../easy_Q11/src/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/src/Selection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../easy_Q11/src/bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q11/src/bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../easy_Q3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../easy_Q3/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q3/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q5/out/production/easy_Q5/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q5/out/production/easy_Q5/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q5/out/production/easy_Q5/TestLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q5/out/production/easy_Q5/TestLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q5/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q5/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q5/src/TestLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q5/src/TestLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q6/out/production/easy_Q6/ListStackComp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_Q6/src/ListStackComp.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../easy_Q7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../easy_Q7/src/ListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q7/src/ListQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/easy_Q8/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/easy_Q8/BST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../easy_Q9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_Q9/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../report.docx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -69,10 +62,10 @@
     <session id="118390977">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -92,15 +85,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="149" column="5" lean-forward="true" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
+            <state relative-caret-position="2044">
+              <caret line="149" column="5" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
               <folding>
                 <element signature="e#279#280#0" expanded="true" />
                 <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#1506#1507#0" expanded="true" />
-                <element signature="e#1546#1547#0" expanded="true" />
-                <element signature="e#3287#3288#0" expanded="true" />
-                <element signature="e#3317#3318#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,36 +125,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1439" />
-    <option name="height" value="1039" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="easy_Q8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easy_Q8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="easy_Q8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easy_Q8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542693064854" />
@@ -211,8 +180,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1151" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.26349497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -275,25 +243,21 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/nio/charset/CharsetEncoder.java" />
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2044">
+          <caret line="149" column="5" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
+          <folding>
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BST_test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="19" column="39" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="149" column="5" lean-forward="true" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
-          <folding>
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#1506#1507#0" expanded="true" />
-            <element signature="e#1546#1547#0" expanded="true" />
-            <element signature="e#3287#3288#0" expanded="true" />
-            <element signature="e#3317#3318#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
